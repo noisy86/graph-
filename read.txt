@@ -1,0 +1,6 @@
+//start server
+// cd D:\Code\test11\server => npm run dev  
+//start client 
+//cd D:\Code\test11\client
+//npm run
+// button fetch doesnt exist(to edit el take id of el from class of button) 
